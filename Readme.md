@@ -1,0 +1,1 @@
+Hello! this is our first project, where we will learn to use Git!
